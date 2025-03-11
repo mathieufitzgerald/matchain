@@ -1,0 +1,14 @@
+{
+  "network": "test",
+  "blockReward": 50,
+  "blockHalvingInterval": 210000,
+  "targetSpacing": 600,
+  "genesisMessage": "MatChain Genesis",
+  "seedNodes": [
+    "127.0.0.1:8333"
+  ],
+  "maxBlockSize": 2000000,
+  "p2pPort": 8333,
+  "rpcPort": 8332,
+  "magicBytes": "f9beb4d9"
+}
